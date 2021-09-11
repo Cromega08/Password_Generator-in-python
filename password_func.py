@@ -139,6 +139,3 @@ class app():
         else:
 
             os.system("clear")
-
-
-app().exec()
